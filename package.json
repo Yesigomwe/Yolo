@@ -1,0 +1,15 @@
+{
+  "name": "yolo",
+  "version": "1.0.0",
+  "description": "This repository contains my solution to the test questions for the QA Engineering role at Yolo Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  }
+}
