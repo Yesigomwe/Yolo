@@ -2,7 +2,7 @@
  This repository contains my solution to the test questions for the QA Engineering role at Yolo Group.
 
 ## Steps on how to test
-* Clone the repository on your local computer.
+* Clone the repository on your local computer from [Github](https://github.com/Yesigomwe/Yolo).
 * Open the directory with the cloned project with VS Code.
 * Open terminal at the directory level (If using Windows, use CMD or Terminal for windows. You can also open it through the VS Code Application.)
 * Run the command `npx cypress open`.
