@@ -10,7 +10,6 @@ export class RouletteTests {
             .type(searchKeyWord)
         cy.contains(this.featureName,)
             .click()
-        cy.wait(15000) // To allow enough time for the game to load
 
         cy.get(this.gamesfeatures).scrollIntoView()
             .click()
@@ -24,7 +23,6 @@ export class RouletteTests {
             .and('be.visible')
             .click()
             cy.get(this.gameArea).should('be.visible')
-            cy.wait(15000) // To allow enough time for the game to load
 
     }
 

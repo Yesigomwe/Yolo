@@ -10,8 +10,8 @@ describe('Roulette feature tests', () => {
   })
 
   it('Tests for feature on games page', () => {
-    // rouletteTests.searchFeature('Ro{Enter}')
-    // rouletteTests.rouletteOverview()
+    rouletteTests.searchFeature('Ro{Enter}')
+    rouletteTests.rouletteOverview()
 
   })
 
