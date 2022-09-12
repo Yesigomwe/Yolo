@@ -1,5 +1,5 @@
 # Yolo
- This repository contains my solution to the test questions for the QA Engineering role at Yolo Group.
+ This repository contains automation scripts for my challenge at Yolo Group.
 
 ## Steps on how to test
 * Clone the repository on your local computer from [Github](https://github.com/Yesigomwe/Yolo).
